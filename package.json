@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-bitmatica",
+  "version": "1.0.0",
+  "description": "Bitmatica's ESLint config, following our styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitmatica/eslint-config-bitmatica.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Rob Nagle <rob@bitmatica.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitmatica/eslint-config-bitmatica/issues"
+  },
+  "homepage": "https://github.com/bitmatica/eslint-config-bitmatica",
+  "dependencies": {
+    "eslint-config-airbnb": "^9.0.0",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "eslint-plugin-react": "^5.1.1"
+  },
+  "peerDependencies": {
+    "eslint": "^2.0.0"
+  }
+}
