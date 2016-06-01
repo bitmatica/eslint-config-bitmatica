@@ -103,9 +103,9 @@ module.exports = {
     // React and JSX
     // -------------
     
-    // Don't require React components be defined with ES6 class extend statements.
+    // Prohibit React components defined with ES6 class extend statements.
     // ES6 classes don't yet support nice features like statics, mixins, and autobinding.
-    "react/prefer-es6-class": 0,
+    "react/prefer-es6-class": [2, "never"],
     
     // Don't require simple React components be defined as stateless functions.
     // For consistency, all our React components are currently defined with createClass.
