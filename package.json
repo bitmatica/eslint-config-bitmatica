@@ -15,7 +15,7 @@
     "eslintconfig"
   ],
   "author": "Rob Nagle <rob@bitmatica.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bitmatica/eslint-config-bitmatica/issues"
   },
