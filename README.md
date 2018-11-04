@@ -8,5 +8,5 @@ Based on [Airbnb's style guide](https://github.com/airbnb/javascript) and ESLint
 
 ## Usage
 
-1. `npm install --save-dev eslint-config-bitmatica`
+1. `npm install --save-dev @bitmatica/eslint-config-bitmatica`
 2. add `"extends": "bitmatica"` to your .eslintrc
