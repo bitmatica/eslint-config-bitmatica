@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-bitmatica",
+  "name": "@bitmatica/eslint-config-bitmatica",
   "version": "1.2.0",
   "description": "Bitmatica's ESLint config, following our styleguide",
   "main": "index.js",
